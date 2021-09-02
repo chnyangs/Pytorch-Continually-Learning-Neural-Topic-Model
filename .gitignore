@@ -1,0 +1,6 @@
+
+*.pkl
+*.pt
+
+# ignroe folders
+results
