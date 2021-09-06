@@ -1,4 +1,4 @@
-# pytorch-optimize-topic-models
+# Pytorch-Continually Learning Neural Topic Model
 
 Based on the Paper [AUTOENCODING VARIATIONAL INFERENCE
 FOR TOPIC MODELS, ICLR 2017](https://arxiv.org/pdf/1703.01488.pdf)
