@@ -26,3 +26,8 @@ Support for password authentication was removed on August 13, 2021. Please use a
 ### 3. Delete the Token
     $ git config --global --unset credential.helper
     $ git config --system --unset credential.helper
+
+
+## Resources
+
+http://dns2.asia.edu.tw/~jdwang/project/classification_dataset.htm
